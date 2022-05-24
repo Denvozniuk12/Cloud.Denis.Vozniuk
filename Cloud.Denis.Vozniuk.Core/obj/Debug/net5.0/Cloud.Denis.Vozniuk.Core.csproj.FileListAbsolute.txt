@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\bin\Debug\net5.0\Cloud.Denis.Vozniuk.Core.deps.json
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\bin\Debug\net5.0\Cloud.Denis.Vozniuk.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\bin\Debug\net5.0\Cloud.Denis.Vozniuk.Core.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\refint\Cloud.Denis.Vozniuk.Core.dll
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\Cloud.Denis.Vozniuk.Core.pdb
+C:\Users\Denis\Desktop\Академія\Основи хмарних технологій\MyProject\Cloud.Denis.Vozniuk\Cloud.Denis.Vozniuk.Core\obj\Debug\net5.0\ref\Cloud.Denis.Vozniuk.Core.dll
